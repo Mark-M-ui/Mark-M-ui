@@ -5,4 +5,4 @@
 
 **Email:** 26120277@bjtu.edu.cn
 
-**Research Interests:** Computer Vision, Deep Learning, Video Frame Interpolation.
+**Research Interests:** Model Compression, Computer Vision, Deep Learning, Video Frame Interpolation.
